@@ -1,0 +1,3 @@
+{
+    "DBHost": "mongodb://<dbuser>:<dbpassword>@ds117899.mlab.com:17899/test-mocha-chai"
+}
