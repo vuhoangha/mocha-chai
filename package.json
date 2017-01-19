@@ -1,4 +1,3 @@
-//link tham khao https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai
 {
     "name": "bookstore",
     "version": "1.0.0",
