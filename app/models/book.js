@@ -11,7 +11,7 @@ let BookSchema = new Schema(
     createdAt: { type: Date, default: Date.now },    
   }, 
   { 
-    versionKey: false
+    collection: 'book'
   }
 );
 
